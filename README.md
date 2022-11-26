@@ -1,2 +1,6 @@
-# MyJobHuntingTips
-Notes on some of the positions that CS majors can apply, such as R&amp;D, PM, Bank Techer...
+---
+description: 找工作
+---
+
+# Overview
+
