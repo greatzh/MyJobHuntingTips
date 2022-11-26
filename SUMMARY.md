@@ -10,9 +10,9 @@
 * [CN](basic-knowledge/cn.md)
 * [CP](basic-knowledge/cp.md)
 
-## Python全栈工程师
+## Python Full Stack Engineer
 
-* [Basic knowledge](python-quan-zhan-gong-cheng-shi/basic-knowledge.md)
+* [Basic knowledge](python-full-stack-engineer/basic-knowledge.md)
 
 ## Interview
 
