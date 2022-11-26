@@ -13,4 +13,8 @@
 
 ## Python全栈工程师
 
-* [专业基础](python-quan-zhan-gong-cheng-shi/zhuan-ye-ji-chu.md)
+* [Basic knowledge](python-quan-zhan-gong-cheng-shi/basic-knowledge.md)
+
+## Interview
+
+* [Deep learning](interview/deep-learning.md)
