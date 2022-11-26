@@ -9,7 +9,6 @@
 * [OS](basic-knowledge/os.md)
 * [CN](basic-knowledge/cn.md)
 * [CP](basic-knowledge/cp.md)
-* [Page 1](basic-knowledge/page-1.md)
 
 ## Python全栈工程师
 
@@ -18,3 +17,6 @@
 ## Interview
 
 * [Deep learning](interview/deep-learning.md)
+* [Python](interview/python.md)
+* [Numpy](interview/numpy.md)
+* [Pandas](interview/pandas.md)
